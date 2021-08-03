@@ -2,7 +2,9 @@
 
 *Subiendo Imagenes :+1: desde la app*
 
-> //![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
+> ```Ruby
+> ![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
+> ```
 
 ![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
 
