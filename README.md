@@ -1,6 +1,7 @@
 #Alumno promedio Desafio Latam
 
 ![AlumnoPromedio](/images/AlumnoPromedio.jpg)
+Format: ![Alt Text](url)
 
 ```Ruby
   def algo
