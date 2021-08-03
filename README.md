@@ -4,12 +4,6 @@
 
 ![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
 
-<img
-  src=“images/AlumnoPromedio.jpg”
-  raw=true
-  alt=“Subject Pronouns”
-  style=“margin-right: 10px;”/>
-
 
 ```Ruby
   def algo
