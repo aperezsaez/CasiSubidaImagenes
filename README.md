@@ -1,7 +1,6 @@
 #Alumno promedio Desafio Latam
 
-![AlumnoPromedio](/images/AlumnoPromedio.jpg)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/5937e90a5bafe882f5bc09e6/gatitos-cesta_0.jpg)
 
 <img
   src=“images/AlumnoPromedio.jpg”
