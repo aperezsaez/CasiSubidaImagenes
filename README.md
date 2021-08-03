@@ -6,6 +6,8 @@
 > ![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
 > ```
 
+[//]: # ![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
+
 ![GitHub Logo](/app/assets/images/AlumnoPromedio.jpg)
 
 ## Gatitos
